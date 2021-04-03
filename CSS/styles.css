@@ -1,0 +1,21 @@
+body {
+    background-color:#ff7a00;
+    background-size: auto;
+ 
+    
+}
+
+p {
+    color: #fff;
+    
+}
+h1 {
+    text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+    body {
+      background-color: #d44000;
+      color: white;
+    }
+  }
